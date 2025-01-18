@@ -1,0 +1,51 @@
+C:\Users\busi.20132\Desktop\Tiro alla fune\bin\Debug\net6.0-windows\Tiro alla fune.exe
+C:\Users\busi.20132\Desktop\Tiro alla fune\bin\Debug\net6.0-windows\Tiro alla fune.deps.json
+C:\Users\busi.20132\Desktop\Tiro alla fune\bin\Debug\net6.0-windows\Tiro alla fune.runtimeconfig.json
+C:\Users\busi.20132\Desktop\Tiro alla fune\bin\Debug\net6.0-windows\Tiro alla fune.dll
+C:\Users\busi.20132\Desktop\Tiro alla fune\bin\Debug\net6.0-windows\Tiro alla fune.pdb
+C:\Users\busi.20132\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro_alla_fune.Form1.resources
+C:\Users\busi.20132\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro_alla_fune.Properties.Resources.resources
+C:\Users\busi.20132\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.csproj.GenerateResource.cache
+C:\Users\busi.20132\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busi.20132\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.AssemblyInfoInputs.cache
+C:\Users\busi.20132\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.AssemblyInfo.cs
+C:\Users\busi.20132\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.csproj.CoreCompileInputs.cache
+C:\Users\busi.20132\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.dll
+C:\Users\busi.20132\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\refint\Tiro alla fune.dll
+C:\Users\busi.20132\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.pdb
+C:\Users\busi.20132\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.genruntimeconfig.cache
+C:\Users\busi.20132\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\ref\Tiro alla fune.dll
+F:\Tiro alla fune\bin\Debug\net6.0-windows\Tiro alla fune.exe
+F:\Tiro alla fune\bin\Debug\net6.0-windows\Tiro alla fune.deps.json
+F:\Tiro alla fune\bin\Debug\net6.0-windows\Tiro alla fune.runtimeconfig.json
+F:\Tiro alla fune\bin\Debug\net6.0-windows\Tiro alla fune.dll
+F:\Tiro alla fune\bin\Debug\net6.0-windows\Tiro alla fune.pdb
+F:\Tiro alla fune\obj\Debug\net6.0-windows\Tiro_alla_fune.Form1.resources
+F:\Tiro alla fune\obj\Debug\net6.0-windows\Tiro_alla_fune.Properties.Resources.resources
+F:\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.csproj.GenerateResource.cache
+F:\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.AssemblyInfoInputs.cache
+F:\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.AssemblyInfo.cs
+F:\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.csproj.CoreCompileInputs.cache
+F:\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.dll
+F:\Tiro alla fune\obj\Debug\net6.0-windows\refint\Tiro alla fune.dll
+F:\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.pdb
+F:\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.genruntimeconfig.cache
+F:\Tiro alla fune\obj\Debug\net6.0-windows\ref\Tiro alla fune.dll
+C:\Users\Utente\Desktop\Tiro alla fune\bin\Debug\net6.0-windows\Tiro alla fune.exe
+C:\Users\Utente\Desktop\Tiro alla fune\bin\Debug\net6.0-windows\Tiro alla fune.deps.json
+C:\Users\Utente\Desktop\Tiro alla fune\bin\Debug\net6.0-windows\Tiro alla fune.runtimeconfig.json
+C:\Users\Utente\Desktop\Tiro alla fune\bin\Debug\net6.0-windows\Tiro alla fune.dll
+C:\Users\Utente\Desktop\Tiro alla fune\bin\Debug\net6.0-windows\Tiro alla fune.pdb
+C:\Users\Utente\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro_alla_fune.Form1.resources
+C:\Users\Utente\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro_alla_fune.Properties.Resources.resources
+C:\Users\Utente\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.AssemblyInfo.cs
+C:\Users\Utente\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.dll
+C:\Users\Utente\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\refint\Tiro alla fune.dll
+C:\Users\Utente\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.pdb
+C:\Users\Utente\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\Tiro alla fune.genruntimeconfig.cache
+C:\Users\Utente\Desktop\Tiro alla fune\obj\Debug\net6.0-windows\ref\Tiro alla fune.dll
